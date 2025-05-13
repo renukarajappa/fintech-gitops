@@ -24,9 +24,9 @@ This is a simple GitOps deployment of a payment gateway microservice using ArgoC
 
 ## Ports
 
-- ArgoCD UI: `http://<EC2_PUBLIC_IP>:30080`
-- Dev App: `http://<EC2_PUBLIC_IP>:30001`
-- Staging App: `http://<EC2_PUBLIC_IP>:30002`
-- Prod App: `http://<EC2_PUBLIC_IP>:30003`
+- ArgoCD UI: `http://18.118.7.3:30080`
+- Dev App: `http://18.118.7.3:30001`
+- Staging App: `http://18.118.7.3:30002`
+- Prod App: `http://18.118.7.3:30003`
 
 
